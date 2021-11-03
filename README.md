@@ -1,4 +1,4 @@
-# COVID Data Exploration: Project Overview
+# COVID Data Exploration with SQL: Project Overview
 
 <img src="images/pexels-anna-shvets-4167544.jpg" alt="" width="250" height="375">
 
@@ -7,8 +7,4 @@ Jan 28, 2020 is selected and then click the "DOWNLOAD" button at the bottom righ
 
 <img src="images/download-instructions.PNG" alt="">
 
-
-I then subsected the data in excel to create
-the CovidDeaths.csv and CovidVaccinations.csv files used in the analysis.
-
-
+I created the CovidDeaths.csv and CovidVaccinations.csv files used in the analysis from this dataset.
