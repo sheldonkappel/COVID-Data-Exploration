@@ -5,7 +5,7 @@
 To download the data for yourself, follow [this link](https://ourworldindata.org/covid-deaths) and scroll to the bottom. Drag the slider to the very left until
 Jan 28, 2020 is selected and then click the "DOWNLOAD" button at the bottom right.
 
-<img src="images/download-instructions.png" alt="">
+<img src="images/download-instructions.PNG" alt="">
 
 
 I then subsected the data in excel to create
