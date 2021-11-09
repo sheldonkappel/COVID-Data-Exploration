@@ -14,7 +14,7 @@ Jan 28, 2020 is selected and then click the "DOWNLOAD" button at the bottom righ
 I created the CovidDeaths.csv and CovidVaccinations.csv files used in the analysis from this dataset.
 
 ## Some SQL Concepts Involved in this Project
-* Joins
+* JOIN's
 * CTE's
 * Temp Tables
 * Window Functions
